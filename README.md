@@ -8,6 +8,3 @@
 8) pip install nle minihack matplotlib notebook pyswip
 9) Eseguire apt update
 10) Installare ssh eseguendo apt install -y openssh-client
-11) Generare chiavi ssh mediante "ssh-keygen -t rsa -b 4096"
-12) Leggere contenuto mediante "cat ~/.ssh/id_rsa.pub"
-13) Inviarmi la chiave che la aggiungo nelle mie chiavi. 
